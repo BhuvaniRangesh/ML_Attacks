@@ -50,3 +50,5 @@ A core part of this project is the Detection Pipeline. I implemented a K-Nearest
 6. Conclusion
 
 As AI is increasingly integrated into Security Operations Centers (SOC), the integrity of training data becomes a critical security frontier. This project proves that high accuracy (90%+) is a "false security" metric if a targeted backdoor exists.
+
+Built With: Python, Scikit-Learn, and structured with assistance from Gemini AI to simulate adversarial security scenarios.
